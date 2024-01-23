@@ -1,5 +1,5 @@
 package testing
 
 func hello() string {
-	return "hello world"
+	return "hello world!!!!"
 }
